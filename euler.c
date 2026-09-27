@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     const double DELTA_T = atof(argv[1]);
 
     // CONSTANTES DERIVADAS
-    const int NUM_PTS = (int)(TF / DELTA_T);
+    const int NUM_PTS = (int)(TF / DELTA_T) + 1;
 
     // CRIANDO VETORES DE COMPONENTES
     int size = NUM_PTS * sizeof(double);

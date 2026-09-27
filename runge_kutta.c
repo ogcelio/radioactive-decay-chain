@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 
     // CONSTANTES DERIVADAS
     const double SEXTO = DELTA_T / 6.0;
-    const int NUM_PTS = (int)(TF / DELTA_T);
+    const int NUM_PTS = (int)(TF / DELTA_T) + 1;
 
     // CRIANDO VETOR DE FATORES
     const double fator[3] = {0.5 * DELTA_T, 0.5 * DELTA_T, DELTA_T};

@@ -1,0 +1,222 @@
+
+Método: euler, Passo: 1
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.5961233707e+23, Desvio Relativo: 3.4726256423e-01%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 8.1448032463e+22, Desvio Relativo: 2.3676265528e-01%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.5775650352e+23, Desvio Relativo: 2.6118412904e-01%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1819804657e+21, Desvio Relativo: 5.4724737229e-01%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 1.1464756904e+18, Desvio Relativo: 2.1881799429e+00%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.2932103298e+23, Desvio Relativo: 6.9331921558e-01%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.9598740210e+22, Desvio Relativo: 6.9090309991e-01%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.3673338681e+23, Desvio Relativo: 1.3325014811e-01%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.3373249256e+21, Desvio Relativo: 1.0592278914e-01%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 9.5150746343e+18, Desvio Relativo: 8.0318209532e-01%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.6505438901e+22, Desvio Relativo: 1.0381741417e+00%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 1.0645244609e+22, Desvio Relativo: 1.0381340312e+00%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3457384047e+23, Desvio Relativo: 6.4450380362e-02%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2462346991e+21, Desvio Relativo: 2.7592485445e-02%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.9241320904e+19, Desvio Relativo: 4.3873649376e-01%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.6723929570e+22, Desvio Relativo: 1.3818315158e+00%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.8281657410e+21, Desvio Relativo: 1.3818309234e+00%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6698071086e+23, Desvio Relativo: 2.9892402814e-02%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2405410478e+22, Desvio Relativo: 6.5728483730e-03%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.1783347104e+19, Desvio Relativo: 2.8617532657e-01%
+
+Método: euler, Passo: 5
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.5452835312e+23, Desvio Relativo: 1.7560933134e+00%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 8.0608425298e+22, Desvio Relativo: 1.2651721367e+00%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.6370663315e+23, Desvio Relativo: 1.3307674309e+00%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1555433730e+21, Desvio Relativo: 2.7716848481e+00%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 1.0450562443e+18, Desvio Relativo: 1.0840801795e+01%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.2569035317e+23, Desvio Relativo: 3.4813479896e+00%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.8769665563e+22, Desvio Relativo: 3.4725976555e+00%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.4121194877e+23, Desvio Relativo: 6.6920696799e-01%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.3188253356e+21, Desvio Relativo: 5.3199173866e-01%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 9.2071626921e+18, Desvio Relativo: 4.0132341478e+00%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.4560793911e+22, Desvio Relativo: 5.1763055838e+00%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 1.0200118014e+22, Desvio Relativo: 5.1761844051e+00%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3697319487e+23, Desvio Relativo: 3.2134830406e-01%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2371675222e+21, Desvio Relativo: 1.3751750435e-01%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.8725685215e+19, Desvio Relativo: 2.1943801889e+00%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.5798064879e+22, Desvio Relativo: 6.8414981410e+00%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.6162321251e+21, Desvio Relativo: 6.8414966156e+00%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6812241904e+23, Desvio Relativo: 1.4799708165e-01%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2402210182e+22, Desvio Relativo: 3.2368737396e-02%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.1073771466e+19, Desvio Relativo: 1.4313787516e+00%
+
+Método: euler, Passo: 10
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.4800714598e+23, Desvio Relativo: 3.5631952288e+00%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 7.9406938820e+22, Desvio Relativo: 2.7368366706e+00%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.7146347609e+23, Desvio Relativo: 2.7251218728e+00%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1215180957e+21, Desvio Relativo: 5.6345980517e+00%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 9.2101534218e+17, Desvio Relativo: 2.1423378035e+01%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.2110897365e+23, Desvio Relativo: 6.9994268552e+00%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.7721986451e+22, Desvio Relativo: 6.9877495048e+00%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.4686474686e+23, Desvio Relativo: 1.3456865420e+00%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.2954701887e+21, Desvio Relativo: 1.0698903017e+00%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 8.8228467801e+18, Desvio Relativo: 8.0198149693e+00%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.2146788272e+22, Desvio Relativo: 1.0313218840e+01%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 9.6475464755e+21, Desvio Relativo: 1.0313080035e+01%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3995166099e+23, Desvio Relativo: 6.4025149000e-01%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2259236081e+21, Desvio Relativo: 2.7383198026e-01%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.8080656302e+19, Desvio Relativo: 4.3905837684e+00%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.4667383499e+22, Desvio Relativo: 1.3508933947e+01%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.3574152220e+21, Desvio Relativo: 1.3508932365e+01%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6951666262e+23, Desvio Relativo: 2.9222543392e-01%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2398352575e+22, Desvio Relativo: 6.3462854992e-02%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.0186088041e+19, Desvio Relativo: 2.8640351802e+00%
+
+Método: rk4, Passo: 2
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.6086548793e+23, Desvio Relativo: 2.9302004023e-08%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 8.1641327343e+22, Desvio Relativo: 1.5884898893e-06%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.5630352819e+23, Desvio Relativo: 2.1420373013e-07%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1884844149e+21, Desvio Relativo: 4.1926275253e-08%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 1.1721238688e+18, Desvio Relativo: 9.5007744201e-08%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.3022390038e+23, Desvio Relativo: 5.8603874017e-08%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.9804661547e+22, Desvio Relativo: 2.1354477785e-08%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.3561992195e+23, Desvio Relativo: 9.9421547953e-09%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.3419240130e+21, Desvio Relativo: 9.1848002084e-09%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 9.5921167975e+18, Desvio Relativo: 1.5910238292e-08%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.6993311349e+22, Desvio Relativo: 8.7905845999e-08%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 1.0756915822e+22, Desvio Relativo: 8.7255170723e-08%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3397189198e+23, Desvio Relativo: 5.4515018654e-09%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2485106685e+21, Desvio Relativo: 2.6705633200e-09%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.9370178595e+19, Desvio Relativo: 1.7010499489e-09%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.6958264229e+22, Desvio Relativo: 1.1720781118e-07%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.8818057375e+21, Desvio Relativo: 1.1719768452e-07%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6669174345e+23, Desvio Relativo: 2.5376766878e-09%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2406225921e+22, Desvio Relativo: 8.5759209205e-10%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.1960663234e+19, Desvio Relativo: 8.5688513371e-10%
+
+Método: rk4, Passo: 5
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.6086549202e+23, Desvio Relativo: 1.1642286213e-06%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 8.1641273053e+22, Desvio Relativo: 6.8087096666e-05%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.5630357841e+23, Desvio Relativo: 9.2411794940e-06%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1884843924e+21, Desvio Relativo: 1.9397184634e-06%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 1.1721238266e+18, Desvio Relativo: 3.6885913368e-06%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.3022390333e+23, Desvio Relativo: 2.3284571901e-06%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.9804661759e+22, Desvio Relativo: 7.3391024039e-07%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.3561991876e+23, Desvio Relativo: 3.9093163206e-07%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.3419240284e+21, Desvio Relativo: 3.6402057947e-07%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 9.5921167488e+18, Desvio Relativo: 5.2353738884e-07%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.6993312949e+22, Desvio Relativo: 3.4926858079e-06%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 1.0756916185e+22, Desvio Relativo: 3.4648324168e-06%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3397189001e+23, Desvio Relativo: 2.1657725461e-07%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2485106770e+21, Desvio Relativo: 1.0619682034e-07%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.9370178569e+19, Desvio Relativo: 9.1834188206e-08%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.6958264999e+22, Desvio Relativo: 4.6569144480e-06%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.8818059137e+21, Desvio Relativo: 4.6564819141e-06%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6669174250e+23, Desvio Relativo: 1.0082742045e-07%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2406225925e+22, Desvio Relativo: 3.3985161068e-08%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.1960663221e+19, Desvio Relativo: 2.1414790526e-08%
+
+Método: rk4, Passo: 10
+
+Tempo: 0.00 s
+N1 -> Analítica: 1.0000000000e+24, Numérica: 1.0000000000e+24, Desvio Relativo: 0.0000000000e+00%
+N2 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N3 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N4 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+N5 -> Analítica: 0.0000000000e+00, Numérica: 0.0000000000e+00, Desvio Relativo: 0.0000000000e+00%
+
+Tempo: 150.00 s
+N1 -> Analítica: 3.6086548782e+23, Numérica: 3.6086555697e+23, Desvio Relativo: 1.9163247135e-05%
+N2 -> Analítica: 8.1641328640e+22, Numérica: 8.1640289629e+22, Desvio Relativo: 1.2726529736e-03%
+N3 -> Analítica: 5.5630352700e+23, Numérica: 5.5630449734e+23, Desvio Relativo: 1.7442584465e-04%
+N4 -> Analítica: 1.1884844154e+21, Numérica: 1.1884839362e+21, Desvio Relativo: 4.0321942420e-05%
+N5 -> Analítica: 1.1721238699e+18, Numérica: 1.1721232155e+18, Desvio Relativo: 5.5830339355e-05%
+
+Tempo: 300.00 s
+N1 -> Analítica: 1.3022390030e+23, Numérica: 1.3022395021e+23, Desvio Relativo: 3.8326497944e-05%
+N2 -> Analítica: 2.9804661541e+22, Numérica: 2.9804664094e+22, Desvio Relativo: 8.5663378023e-06%
+N3 -> Analítica: 8.3561992203e+23, Numérica: 8.3561986931e+23, Desvio Relativo: 6.3093180415e-06%
+N4 -> Analítica: 4.3419240126e+21, Numérica: 4.3419242719e+21, Desvio Relativo: 5.9722820100e-06%
+N5 -> Analítica: 9.5921167990e+18, Numérica: 9.5921159770e+18, Desvio Relativo: 8.5690907112e-06%
+
+Tempo: 450.00 s
+N1 -> Analítica: 4.6993311308e+22, Numérica: 4.6993338324e+22, Desvio Relativo: 5.7489752421e-05%
+N2 -> Analítica: 1.0756915813e+22, Numérica: 1.0756921941e+22, Desvio Relativo: 5.6969634705e-05%
+N3 -> Analítica: 9.3397189203e+23, Numérica: 9.3397185874e+23, Desvio Relativo: 3.5641596432e-06%
+N4 -> Analítica: 8.2485106682e+21, Numérica: 8.2485108124e+21, Desvio Relativo: 1.7479764483e-06%
+N5 -> Analítica: 2.9370178596e+19, Numérica: 2.9370178149e+19, Desvio Relativo: 1.5212625961e-06%
+
+Tempo: 600.00 s
+N1 -> Analítica: 1.6958264209e+22, Numérica: 1.6958277208e+22, Desvio Relativo: 7.6653010578e-05%
+N2 -> Analítica: 3.8818057330e+21, Numérica: 3.8818087082e+21, Desvio Relativo: 7.6644929423e-05%
+N3 -> Analítica: 9.6669174347e+23, Numérica: 9.6669172743e+23, Desvio Relativo: 1.6596197692e-06%
+N4 -> Analítica: 1.2406225920e+22, Numérica: 1.2406225990e+22, Desvio Relativo: 5.5936066822e-07%
+N5 -> Analítica: 6.1960663234e+19, Numérica: 6.1960663019e+19, Desvio Relativo: 3.4744634278e-07%
